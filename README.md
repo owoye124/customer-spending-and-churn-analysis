@@ -22,7 +22,10 @@ This project balances technical accuracy with clear communication, making the in
 ---
 
 ## 📁 Repository Structure
-
+├── Component 1.ipynb
+│ └── Full data analysis, feature engineering, modelling, and evaluation
+│
+└── README.md
 
 - **`census.ipynb`** shows *how* the analysis was performed.
 - **The PDF report** explains *why the findings matter* and how they inform real decisions.
